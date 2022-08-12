@@ -57,9 +57,7 @@
        align-items: center;
        justify-content: center;
     }
-    .footer__list-follow{
-        padding: 5px 0;
-    } 
+    
     
 }
 /*tablet */
@@ -164,6 +162,9 @@
         height: 100%;
         flex: none;
     }
+    .footer__list-follow{
+        padding: 5px 0;
+    } 
     
 
     @keyframes mobieSearchSlideIn {
