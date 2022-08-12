@@ -57,6 +57,9 @@
        align-items: center;
        justify-content: center;
     }
+    .footer__list-follow{
+        padding: 5px 0;
+    } 
     
 }
 /*tablet */
